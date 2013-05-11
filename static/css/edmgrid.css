@@ -1,0 +1,11 @@
+body, html {height:100%;font-family:helvetica;}
+.edmgrid-table {height:90%;width:90%;margin:5%;}
+.edmgrid-table td {width:31%;padding:1%;vertical-align:top;border-left:dotted thick #CCC;border-bottom:dotted thick #CCC;}
+.edmgrid-table td:hover {border-left:dotted thick #AAA;color:#AAA;}
+.edmgrid-table td:hover .genre-text {color:#AAA;}
+.genre-text {color:#CCC;font-size:150%;opacity:.8;font-weight:300;}
+.label a {text-decoration:none;color:#333;}
+.label a:hover {text-decoration:none;}
+.axes {height:100%;}
+#x-axis {position:absolute;top:20px;width:90%;margin-left:5%;border-top:solid thick #333;}
+#y-axis {position:absolute;top:50px;height:80%;left:20px;height:100%;border-left:solid thick #333;}
