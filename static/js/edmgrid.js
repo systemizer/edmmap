@@ -261,5 +261,10 @@ var data = [
 	"label":"The Glitch Mob",
 	"x":21,
 	"y":78
+    },
+    {
+	"label":"Flosstradamus",
+	"x":45,
+	"y":90
     }
 ]
